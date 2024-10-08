@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktanishq/MLOps/mlruns/699387606776293826/e305f126f084422fbe7179ec157ae765/artifacts
+end_time: 1728361443944
+entry_point_name: ''
+experiment_id: '699387606776293826'
+lifecycle_stage: active
+run_id: e305f126f084422fbe7179ec157ae765
+run_name: Random_Forest
+run_uuid: e305f126f084422fbe7179ec157ae765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728361442395
+status: 3
+tags: []
+user_id: ktanishq

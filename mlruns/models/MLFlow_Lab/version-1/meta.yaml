@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728361534668
+current_stage: None
+description: ''
+last_updated_timestamp: 1728361534668
+name: MLFlow_Lab
+run_id: e305f126f084422fbe7179ec157ae765
+run_link: ''
+source: file:///home/ktanishq/MLOps/mlruns/699387606776293826/e305f126f084422fbe7179ec157ae765/artifacts/Random_Forest
+status: READY
+status_message: null
+storage_location: file:///home/ktanishq/MLOps/mlruns/699387606776293826/e305f126f084422fbe7179ec157ae765/artifacts/Random_Forest
+user_id: null
+version: 1
