@@ -51,11 +51,11 @@ for model_name, model in models.items():
         mse = mean_squared_error(y_test, predictions)
         r2 = r2_score(y_test, predictions)
 
-        # Log parameters, metrics, and model
-        mlflow.log_param("model_type", model_name)
-        mlflow.log_metric("mse", mse)
-        mlflow.log_metric("R-squared", r2)
-        mlflow.sklearn.log_model(model, model_name)
+        # # Log parameters, metrics, and model
+        # mlflow.log_param("model_type", model_name)
+        # mlflow.log_metric("mse", mse)
+        # mlflow.log_metric("R-squared", r2)
+        # mlflow.sklearn.log_model(model, model_name)
 
         print(f"{model_name} - MSE: {mse}")
         print(f"{model_name} - R-squared: {r2}")
