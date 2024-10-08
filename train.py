@@ -17,6 +17,7 @@ url = "https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.c
 # Fetch the data from the URL
 response = requests.get(url)
 
+
 # Save the content to a temporary file
 with open("BostonHousing.csv", "wb") as file:
     file.write(response.content)

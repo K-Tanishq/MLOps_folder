@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ktanishq/MLOps/mlruns/699387606776293826/7e2d1cdac938455ea23b444f883040b4/artifacts
+end_time: 1728367354063
+entry_point_name: ''
+experiment_id: '699387606776293826'
+lifecycle_stage: active
+run_id: 7e2d1cdac938455ea23b444f883040b4
+run_name: Linear_Regression
+run_uuid: 7e2d1cdac938455ea23b444f883040b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728367352030
+status: 3
+tags: []
+user_id: ktanishq
